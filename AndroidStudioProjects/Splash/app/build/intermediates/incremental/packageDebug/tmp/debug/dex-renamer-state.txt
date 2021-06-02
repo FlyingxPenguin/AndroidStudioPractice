@@ -1,0 +1,4 @@
+#Mon May 31 16:28:42 KST 2021
+base.0=/home/haeun/AndroidStudioProjects/Splash/app/build/intermediates/dex/debug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
