@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/about_preference_category_title">
+        <Preference
+            android:title="Ha Eun's BookShelf"
+         >
+        </Preference>
+        <Preference
+            android:title="School"
+            android:summary="Pukyong National University">
+        </Preference>
+        <Preference
+            android:title="Major"
+            android:summary="Computer Engineerings">
+        </Preference>
+        <Preference
+            android:title="Student ID"
+            android:summary="201730201" />
+        <Preference
+            android:title="Class : Embedded System Design"
+            android:key="about_pref_license" />
+        <Preference
+            android:title="Due Date: 2021.06 16"
+            android:key="about_pref_privacy_policy"/>
+        <Preference
+            android:title="Phd. Park Han hoon"
+            android:key="about_pref_term_of_service"/>
+
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

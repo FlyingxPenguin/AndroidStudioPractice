@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/about_preference_category_title">
+        <Preference
+            android:title="Ha Eun;s BookShelf"
+            android:key="about_pref_name">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://smartjinyu.com/android/2017/02/09/mybookshelf.html" />
+        </Preference>
+        <Preference
+            android:title="School"
+            android:summary="Pukyong National University"
+            android:key="about_pref_market">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="market://details?id=com.smartjinyu.mybookshelf" />
+        </Preference>
+        <!--
+        <Preference
+            android:title="@string/about_preference_donate_title"
+            android:summary="@string/about_preference_donate_summary"
+            android:key="about_pref_donate" />
+         -->
+        <Preference
+            android:title="Major"
+            android:summary="Computer Engineerings">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://github.com/smartjinyu/MyBookshelf" />
+        </Preference>
+        <Preference
+            android:title="Student ID"
+            android:summary="201730201"
+            android:key="about_pref_feedback" />
+        <Preference
+            android:title="Class : Embedded System Design"
+            android:key="about_pref_license" />
+        <Preference
+            android:title="Due Date: 2021. 06.16"
+            android:key="about_pref_privacy_policy"/>
+        <Preference
+            android:title="Phd. Park Han Hoon"
+            android:key="about_pref_term_of_service"/>
+
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
