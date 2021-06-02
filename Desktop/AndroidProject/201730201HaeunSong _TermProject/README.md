@@ -1,8 +1,4 @@
-## Bookshelf
-
-中文版在[这里]
-
-[这里]:https://smartjinyu.com/android/2017/02/09/mybookshelf.html
+## Ha Eun's Bookshelf
 
 <!-- ### Update September 2020
 
