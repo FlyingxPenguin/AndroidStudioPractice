@@ -36,12 +36,6 @@ Features:
 
 If you have any advice or complaints, feel free to open an issue. PR is welcomed anytime.
 
-### Download
-
-[Google Play]
-
-[Google Play]:https://play.google.com/store/apps/details?id=termproject.mybookshelf
-
 
 ### License
 
