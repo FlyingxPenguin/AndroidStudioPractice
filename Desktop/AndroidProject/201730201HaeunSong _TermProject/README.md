@@ -14,5 +14,5 @@ Haeun's  BookShelf Application 은 현대인들이 요즘 책을 읽을 시간�
 ![image](https://user-images.githubusercontent.com/73520071/120608733-7c037900-c48c-11eb-817b-d6669a26793d.png)
 
 PKNU 
-2021 / 1st semester Term Project
+2021 / 1st semester Term Project/
 Class Info : Embedded System Design / Phd. Park Han Hoon 
